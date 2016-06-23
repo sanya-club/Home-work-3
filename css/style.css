@@ -102,6 +102,7 @@ body {
 }
 
 .sidebar-menu li a {
+  display: block;
   padding: 0 20px;
   color: #656363;
   text-decoration: none;
@@ -110,6 +111,7 @@ body {
 .sidebar-menu li a:hover {
   padding-left: 35px;
   padding-right: 5px;
+  background-color: #f9f9f9;
   color: #2c2c2c;
   text-decoration: none;
 }
